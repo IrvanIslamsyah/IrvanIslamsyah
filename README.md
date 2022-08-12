@@ -1,6 +1,6 @@
 ### Hi Irvan 👋
 
-    ![Vegetables Store](/store.jpg)
+![Vegetables Store](/store.jpg)
 
 
 <!--
